@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Project Intern",
+    "organisation": "Central railway information system",
+    "startDate": "Feb, 2024",
+    "endDate": "present",
+    "experiences": ["Worked on backend developer", "Learn to make backend system"],
+    "imageSrc": "history/cris.jpg"
+  },
+  {
+    "role": "ML Internship",
+    "organisation": "YBI Foundtion",
+    "startDate": "Jan, 2023",
+    "endDate": "Feb, 2023",
+    "experiences": ["Worked on Data analytics", "Learn to make Ml model"],
+    "imageSrc": "history/ybi.png"
+  },
+  {
+    "role": "Web Developer",
+    "organisation": "N.S Media",
+    "startDate": "May, 2020",
+    "endDate": "june, 2020",
+    "experiences": ["Learned basic Html,Css,Js", "Worked on Bootstrap framework"],
+    "imageSrc": "history/nsmedia.png"
+  }
+ 
+    
+  ]
+  

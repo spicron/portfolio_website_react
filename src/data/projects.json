@@ -1,0 +1,26 @@
+[
+  {
+    "title": "SpicronBlogging Website",
+    "imageSrc": "projects/blogging.jpg",
+    "description": "This is simple blogging website in this we have to perform CRUD operation and user authentication.",
+    "skills": ["React", "Javascript", "Appwrite"],
+    "demo": "https://spicron-blog.vercel.app",
+    "source": "https://github.com/spicron/SpicronBlog"
+  },
+  {
+    "title": "Social Media Downloader",
+    "imageSrc": "projects/downloader.jpg",
+    "description": "This is a type website in which we have to download contents  from social media.",
+    "skills": ["Html", "Css", "Js", "Bootstrap" , "flask"],
+    "demo": "https://www.mediadownloaderhq.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/portfolio.jpg",
+    "description": "An portfolio is an online representation of work , as well as your skills and experiences.",
+    "skills": ["Html", "Css", "React","Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
